@@ -1,0 +1,1 @@
+c++ main.cpp neuron_wta.cpp neuron_network.cpp
